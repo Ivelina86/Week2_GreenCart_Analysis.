@@ -1,0 +1,27 @@
+category,region,total_revenue,orders
+Cleaning,East,19911.299,251
+Cleaning,South,18887.365,232
+Cleaning,North,18766.1035,245
+Cleaning,Central,18018.8375,238
+Cleaning,West,17952.9345,237
+Storage,West,10014.4465,119
+Storage,East,9498.1305,124
+Storage,Central,9358.475,110
+Storage,South,9345.359,112
+Outdoors,South,9327.4165,110
+Storage,North,8695.5345,111
+Outdoors,Central,7931.846,102
+Outdoors,West,7875.103,91
+Outdoors,North,7806.3265,105
+Kitchen,South,7761.4045,86
+Outdoors,East,7121.376,99
+Kitchen,East,6695.8369999999995,74
+Kitchen,West,6674.001,74
+Kitchen,Central,6518.971,88
+Kitchen,North,6283.4625,80
+Personal Care,Central,5616.162,64
+Personal Care,West,5213.337,67
+Personal Care,North,5207.5505,62
+Personal Care,East,4616.1995,53
+Personal Care,South,4239.0275,55
+Storage,Nrth,19.512,1

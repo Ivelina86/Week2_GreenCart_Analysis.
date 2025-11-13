@@ -1,0 +1,4 @@
+column,issue,count
+quantity,negatives,0
+unit_price,negatives,0
+discount_applied,"out_of_[0,1]",0

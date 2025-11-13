@@ -1,0 +1,7 @@
+region,total_orders,delayed_orders,delay_rate_%
+Central,602,235,39.04
+East,601,250,41.6
+North,603,236,39.14
+Nrth,1,0,0.0
+South,595,230,38.66
+West,588,217,36.9

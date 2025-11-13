@@ -1,0 +1,31 @@
+product_id,product_name,category,launch_date,base_price,supplier_code
+P0001,Storage Product 39,Storage,11-03-25,15.88,S339
+P0002,Cleaning Product 82,Cleaning,18-08-24,34.23,S974
+P0003,Cleaning Product 85,Cleaning,15-07-24,7.92,S745
+P0004,Kitchen Product 82,Kitchen,19-04-25,9.13,S589
+P0005,Personal Care Product 1,Personal Care,20-10-24,31.1,S559
+P0006,Cleaning Product 16,Cleaning,09-10-24,36.06,S980
+P0007,Personal Care Product 64,Personal Care,30-09-24,33.63,S379
+P0008,Storage Product 47,Storage,29-08-24,31.96,S788
+P0009,Outdoors Product 13,Outdoors,18-04-25,8,S695
+P0010,Cleaning Product 70,Cleaning,14-08-24,17.72,S321
+P0011,Kitchen Product 53,Kitchen,25-03-25,11.08,S645
+P0012,Cleaning Product 29,Cleaning,19-04-25,14.67,S481
+P0013,Cleaning Product 94,Cleaning,17-06-25,36.52,S914
+P0014,Outdoors Product 91,Outdoors,02-02-25,13.22,S876
+P0015,Storage Product 10,Storage,08-08-24,39.21,S466
+P0016,Cleaning Product 53,Cleaning,20-02-25,26.71,S715
+P0017,Personal Care Product 11,Personal Care,16-12-24,16.46,S594
+P0018,Storage Product 37,Storage,18-07-24,6.08,S767
+P0019,Kitchen Product 42,Kitchen,17-07-24,30.3,S993
+P0020,Cleaning Product 40,Cleaning,11-08-24,30.27,S492
+P0021,Kitchen Product 70,Kitchen,28-09-24,20.23,S643
+P0022,Cleaning Product 86,Cleaning,04-10-24,19.77,S924
+P0023,Outdoors Product 32,Outdoors,18-01-25,36.04,S907
+P0024,Storage Product 87,Storage,24-02-25,26.33,S558
+P0025,Cleaning Product 84,Cleaning,16-07-24,15.24,S503
+P0026,Storage Product 50,Storage,08-02-25,27.06,S952
+P0027,Outdoors Product 55,Outdoors,21-09-24,23.05,S127
+P0028,Outdoors Product 53,Outdoors,10-04-25,34.28,S587
+P0029,Cleaning Product 69,Cleaning,15-03-25,23.41,S424
+P0030,Cleaning Product 72,Cleaning,04-04-25,9.77,S455

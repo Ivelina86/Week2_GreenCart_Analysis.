@@ -1,0 +1,20 @@
+loyalty_tier,payment_method,order_count
+Gold,Credit Card,834
+Gold,Paypal,422
+Gold,Bank Transfer,400
+Silver,Credit Card,300
+Bronze,Credit Card,278
+Silver,Bank Transfer,191
+Bronze,Bank Transfer,177
+Silver,Paypal,162
+Bronze,Paypal,159
+Unknown,Credit Card,6
+Gld,Credit Card,6
+Sllver,Credit Card,6
+Brnze,Credit Card,5
+Brnze,Paypal,4
+Gld,Paypal,4
+Unknown,Paypal,3
+Gld,Bank Transfer,3
+Brnze,Bank Transfer,2
+Gold,Bank Transfr,1

@@ -1,0 +1,17 @@
+region,price_band,total_orders,delayed_orders,delay_rate_%
+Central,High,265,104,39.25
+Central,Low,112,43,38.39
+Central,Medium,225,88,39.11
+East,High,267,109,40.82
+East,Low,96,40,41.67
+East,Medium,237,101,42.62
+North,High,293,106,36.18
+North,Low,107,41,38.32
+North,Medium,203,89,43.84
+Nrth,Medium,1,0,0.0
+South,High,295,124,42.03
+South,Low,98,33,33.67
+South,Medium,202,73,36.14
+West,High,268,102,38.06
+West,Low,77,30,38.96
+West,Medium,243,85,34.98

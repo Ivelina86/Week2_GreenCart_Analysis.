@@ -1,0 +1,11 @@
+column,missing,pct
+order_id,1,0.03
+customer_id,2,0.07
+product_id,5,0.17
+quantity,3,0.1
+unit_price,1,0.03
+order_date,2,0.07
+delivery_status,3,0.1
+payment_method,3,0.1
+region,0,0.0
+discount_applied,517,17.23
